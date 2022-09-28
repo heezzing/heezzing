@@ -1,6 +1,8 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheezzing&count_bg=%23E39BC6&title_bg=%231821F3&icon=skyliner.svg&icon_color=%238CE50B&title=heezzing&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheezzing&count_bg=%2385F505&title_bg=%231821F3&icon=skyliner.svg&icon_color=%238CE50B&title=heezzing&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **heezzing/heezzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
