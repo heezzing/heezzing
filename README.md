@@ -11,5 +11,3 @@
  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heezzing&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heezzing&layout=compact)](https://github.com/heezzing/github-readme-stats)
