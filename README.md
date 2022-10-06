@@ -5,4 +5,4 @@
 
 ### Hi I'm heezzing 👋
 
-# 🦖 Skill 🦖
+# ☃️Skills
