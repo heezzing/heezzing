@@ -11,3 +11,7 @@
  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heezzing&show_icons=true&theme=radical)
+
+# 📬 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimheekyoung160@gmail.com)](mailto:kimheekyoung160@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:runterry@naver.com)](mailto:runterry@naver.com)
