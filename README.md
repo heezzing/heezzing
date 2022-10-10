@@ -17,4 +17,4 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:runterry@naver.com)](mailto:runterry@naver.com)
 
 # 📝 Profile
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://magnificent-phone-d67.notion.site/Deep-Learning-Engineer-be8cd1f15f284e42bb5e4ab1246961d4)]
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&link={https://magnificent-phone-d67.notion.site/Deep-Learning-Engineer-be8cd1f15f284e42bb5e4ab1246961d4})]({https://magnificent-phone-d67.notion.site/Deep-Learning-Engineer-be8cd1f15f284e42bb5e4ab1246961d4})
